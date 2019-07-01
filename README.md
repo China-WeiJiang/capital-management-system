@@ -1,13 +1,18 @@
-# capital-management-system
+# 利用vue+node+element开发消费后台
 
-## Project setup
+## 安装工作
+* 前端安装工作
 ```
-npm install
+npm install element-ui 
+```
+* 后端安装工作
+```
+npm install express mysql nodemon body-parser bcrypt passport-jwt jsonwebtoken passport
 ```
 
-### Compiles and hot-reloads for development
+### 后端启动
 ```
-npm run serve
+npm run serve 或者 npm run start
 ```
 
 ### Compiles and minifies for production
